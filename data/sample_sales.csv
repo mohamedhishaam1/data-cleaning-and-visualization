@@ -1,0 +1,366 @@
+Order ID,Order Date,Product Name,Category,Quantity,Unit Price,Total Sales,Region,Customer Name
+ORD-1350,05-02-2024,Bose SoundLink Speaker,Audio,1,143.89,143.89,South,Isabella Martinez
+ORD-1143,2023-12-11,Logitech Wireless Mouse,Accessories,5,27.94,139.7,North,Lucas Jackson
+ORD-1216,2023-12-16,Gel Pen Pack (12-pack),Office Supplies,5,17.54,87.7,East,James Taylor
+ORD-1068,02/16/2023,Dell XPS 15,Technology,7,1107.56,7752.92,North,Sophia Wilson
+ORD-1083,2023-08-18,Heavy Duty Paper Shredder,Office Supplies,1,115.28,115.28,West,Sophia Wilson
+ORD-1174,2023-01-29,Anker USB-C Hub,ACCESSORIES,8,46.55,,North,Liam Smith
+ORD-1099,2023-09-21,Gel Pen Pack (12-pack),  Office Supplies  ,8,17.9,143.2,West,James Taylor
+ORD-1205,2024-02-14,Sony WH-1000XM5 Headphones,Audio,3,388.6,$1165.8,West,Amelia Martin
+ORD-1325,2023-01-18,Anker USB-C Hub,Accessories,-4,$57.13,285.65,,Mia Thomas
+ORD-1258,2023-10-30,Desk Organizer Set,Office Supplies,-1,27.98,195.86,South,Daniel Hall
+ORD-1102,2023-03-25,Standing Desk Pro,Furniture,,584.94,2924.7,East,Matthew Young
+ORD-1231,2023-12-06,Ergonomic Office Chair,Furniture,3,344.59,1033.77,North,Henry Harris
+ORD-1076,05/07/2023,Samsung 4K Monitor,Technology,3,498.46,1495.38,North,James Taylor
+ORD-1179,2023-08-20,Filing Storage Cabinet,  Furniture  ,5,179.19,$895.95,South,Benjamin Anderson
+ORD-1346,2023-08-23,Desk Organizer Set,Office Supplies,5,18.5,92.5,West,Evelyn Walker
+ORD-1209,2023-07-26,Desk Organizer Set,Office Supplies,1,26.58,26.58,North,Emma Watson
+ORD-1312,2023-11-17,Ergonomic Office Chair,Furniture,7,257.41,1801.87,West,Abigail Allen
+ORD-1188,2023-04-07,Desk Organizer Set,Office Supplies,7,33.35,233.45,North,Alexander Clark
+ORD-1349,2024-02-14,Gel Pen Pack (12-pack),Office Supplies,,18.15,145.2,South,Abigail Allen
+ORD-1189,03/24/2024,Apple MacBook Pro,technology,4,1885.87,7543.48,South,James Taylor
+ORD-1013,2023-07-28,Heavy Duty Paper Shredder,Office Supplies,7,80.68,$564.76,South,Benjamin Anderson
+ORD-1108,2023-07-28,Apple MacBook Pro,Technology,8,1916.44,15331.52,South,Daniel Hall
+ORD-1097,02/17/2024,Sony WH-1000XM5 Headphones,audio,8,340.6,2724.8,South,Ethan Robinson
+ORD-1110,31-03-2024,Sony WH-1000XM5 Headphones,Audio,,385.1,3080.8,West,Harper Lewis
+ORD-1175,2024-05-06,Heavy Duty Paper Shredder,Office Supplies,7,105.22,736.54,East,Evelyn Walker
+ORD-1170,20-04-2023,Ergonomic Office Chair,Furniture,8,$241.24,1929.92,East,James Taylor
+ORD-1250,2024-05-14,Ergonomic Office Chair,Furniture,6,$277.72,1666.32,West,James Taylor
+ORD-1330,2023-11-20,Logitech Wireless Mouse,Accessories,2,32.67,65.34,South,Emma Watson
+ORD-1160,06/21/2023,Sony WH-1000XM5 Headphones,Audio,2,327.19,654.38,North,Noah Davis
+ORD-1147,03/16/2024,Keychron Mechanical Keyboard,Accessories,3,111.63,334.89,East,Isabella Martinez
+ORD-1001,2024-01-15,Filing Storage Cabinet,Furniture,2,135.61,,,Noah Davis
+ORD-1323,2024-04-03,Gel Pen Pack (12-pack),Office Supplies,5,11.65,58.25,South,Abigail Allen
+ORD-1104,2023-08-03,Apple MacBook Pro,Technology,7,1783.34,12483.38,East,Harper Lewis
+ORD-1304,2023-05-20,Standing Desk Pro,Furniture,1,482.08,482.08,North,Harper Lewis
+ORD-1219,2023-01-21,Standing Desk Pro,Furniture,1,496.78,496.78,South,Harper Lewis
+ORD-1173,2023-05-02,Standing Desk Pro,Furniture,6,$641.85,3851.1,South,James Taylor
+ORD-1161,2024-01-15,Filing Storage Cabinet,Furniture,1,123.07,123.07,South,Noah Davis
+ORD-1260,2023-04-23,Filing Storage Cabinet,Furniture,4,149.55,598.2,West,Amelia Martin
+ORD-1105,2023-10-07,Logitech Wireless Mouse,Accessories,5,44.29,221.45,East,Harper Lewis
+ORD-1010,2023-05-07,Samsung 4K Monitor,Technology,4,$387.46,1549.84,North,Harper Lewis
+ORD-1128,2023-02-17,Sony WH-1000XM5 Headphones,audio,8,337.71,$2701.68,North,Olivia Brown
+ORD-1211,02/25/2024,Logitech Wireless Mouse,Accessories,2,43.03,86.06,South,Ethan Robinson
+ORD-1119,2023-05-02,Bose SoundLink Speaker,Audio,4,137.15,548.6,East,Matthew Young
+ORD-1309,2023-03-30,Gel Pen Pack (12-pack),Office Supplies,8,10.69,85.52,South,Charlotte White
+ORD-1039,2024-03-22,Filing Storage Cabinet,Furniture,8,139.89,$1119.12,North,Ethan Robinson
+ORD-1043,2023-08-13,Sony WH-1000XM5 Headphones,Audio,7,303.98,,West,Evelyn Walker
+ORD-1176,2023-04-25,Smart Fitness Watch,Technology,7,272.16,1905.12,East,Matthew Young
+ORD-1085,19-07-2023,Samsung 4K Monitor,Technology,7,337.39,$2361.73,North,Daniel Hall
+ORD-1197,2023-11-21,Filing Storage Cabinet,Furniture,4,151.63,606.52,East,James Taylor
+ORD-1255,2023-06-25,Dell XPS 15,Technology,5,1158.43,5792.15,South,Olivia Brown
+ORD-1289,2023-08-20,Apple MacBook Pro,Technology,4,1914.43,7657.72,North,Evelyn Walker
+ORD-1058,2023-11-28,Smart Fitness Watch,Technology,5,273.57,$1367.85,South,
+ORD-1101,2023-07-21,Dell XPS 15,Technology,6,1493.38,8960.28,North,Sophia Wilson
+ORD-1112,2023-12-08,Desk Organizer Set,Office Supplies,7,21.82,152.74,North,Benjamin Anderson
+ORD-1311,2023-02-15,Smart Fitness Watch,Technology,7,,$1691.97,East,Alexander Clark
+ORD-1334,2023-11-13,Keychron Mechanical Keyboard,Accessories,4,118.05,472.2,North,Noah Davis
+ORD-1345,2023-08-31,Filing Storage Cabinet,Furniture,1,$151.06,151.06,South,Daniel Hall
+ORD-1297,09/10/2023,Bose SoundLink Speaker,Audio,4,174.17,$696.68,West,
+ORD-1116,2024-04-01,Desk Organizer Set,Office Supplies,7,32.51,227.57,East,Alexander Clark
+ORD-1168,2023-02-18,Heavy Duty Paper Shredder,Office Supplies,3,$110.18,330.54,South,Harper Lewis
+ORD-1286,2024-02-03,Smart Fitness Watch,Technology,1,169.72,169.72,South,Mia Thomas
+ORD-1127,17-02-2024,Sony WH-1000XM5 Headphones,Audio,2,317.92,635.84,West,Emma Watson
+ORD-1195,2023-12-02,Gel Pen Pack (12-pack),Office Supplies,5,13.19,65.95,East,James Taylor
+ORD-1125,03/28/2023,Desk Organizer Set,Office Supplies,3,22.68,68.04,West,Ethan Robinson
+ORD-1275,01/20/2023,Bose SoundLink Speaker,Audio,2,158.8,317.6,East,Noah Davis
+ORD-1261,05/20/2023,Dell XPS 15,technology,6,8500.0,51000.0,West,Harper Lewis
+ORD-1069,2023-11-07,Anker USB-C Hub,Accessories,2,48.19,96.38,West,Alexander Clark
+ORD-1233,2023-12-01,Bose SoundLink Speaker,Audio,2,159.37,318.74,West,James Taylor
+ORD-1265,07/10/2023,Bose SoundLink Speaker,Audio,8,142.43,1139.44,South,Ethan Robinson
+ORD-1292,2024-04-12,Ergonomic Office Chair,Furniture,3,330.69,992.07,South,Liam Smith
+ORD-1089,2023-08-17,Desk Organizer Set,Office Supplies,6,32.52,195.12,East,Harper Lewis
+ORD-1342,2023-02-26,Samsung 4K Monitor,Technology,1,409.1,409.1,North,Henry Harris
+ORD-1082,2023-08-01,Smart Fitness Watch,Technology,4,$225.29,901.16,North,Henry Harris
+ORD-1288,2023-12-19,Anker USB-C Hub,Accessories,4,53.72,214.88,West,Matthew Young
+ORD-1081,2023-01-27,Bose SoundLink Speaker,Audio,2,173.7,347.4,East,Sophia Wilson
+ORD-1019,2023-08-09,Heavy Duty Paper Shredder,Office Supplies,1,85.4,85.4,South,Henry Harris
+ORD-1120,2023-12-23,Ergonomic Office Chair,Furniture,7,222.37,1556.59,East,Evelyn Walker
+ORD-1094,2023-08-19,Logitech Wireless Mouse,Accessories,3,37.92,113.76,North,Charlotte White
+ORD-1117,2023-08-26,Apple MacBook Pro,Technology,7,1681.1,11767.7,East,Emma Watson
+ORD-1333,2023-03-15,Desk Organizer Set,Office Supplies,7,25.93,181.51,South,Sophia Wilson
+ORD-1184,03-03-2023,Bose SoundLink Speaker,Audio,3,152.44,457.32,South,Matthew Young
+ORD-1320,29-09-2023,Anker USB-C Hub,Accessories,8,40.35,322.8,South,Mia Thomas
+ORD-1063,26-11-2023,Samsung 4K Monitor,Technology,8,340.33,2722.64,West,Lucas Jackson
+ORD-1282,2024-04-07,Ergonomic Office Chair,Furniture,2,330.01,660.02,,Evelyn Walker
+ORD-1023,2023-08-09,Desk Organizer Set,Office Supplies,6,28.61,171.66,East,Isabella Martinez
+ORD-1212,31-01-2024,Filing Storage Cabinet,Furniture,3,$152.01,456.03,North,Abigail Allen
+ORD-1087,2023-05-10,Heavy Duty Paper Shredder,Office Supplies,5,102.34,511.7,West,Daniel Hall
+ORD-1061,2023-10-28,Heavy Duty Paper Shredder,Office Supplies,6,113.47,680.82,South,Daniel Hall
+ORD-1208,2023-06-14,Logitech Wireless Mouse,Accessories,1,49.24,49.24,West,Olivia Brown
+ORD-1262,2023-08-26,Sony WH-1000XM5 Headphones,Audio,2,303.16,$606.32,East,Ethan Robinson
+ORD-1141,04/29/2023,Samsung 4K Monitor,Technology,3,437.05,$1311.15,West,Alexander Clark
+ORD-1159,2023-11-10,Ergonomic Office Chair,Furniture,3,246.38,739.14,West,Noah Davis
+ORD-1187,01/26/2023,Smart Fitness Watch,  Technology  ,6,288.12,1728.72,South,Charlotte White
+ORD-1259,2023-10-01,Standing Desk Pro,Furniture,8,676.62,5412.96,West,Lucas Jackson
+ORD-1190,2023-06-26,Logitech Wireless Mouse,Accessories,2,47.35,94.7,East,Ethan Robinson
+ORD-1203,2024-05-01,Filing Storage Cabinet,Furniture,2,155.81,311.62,South,Ethan Robinson
+ORD-1280,2023-01-12,Sony WH-1000XM5 Headphones,Audio,4,373.99,,West,Harper Lewis
+ORD-1248,2024-01-13,Filing Storage Cabinet,Furniture,5,171.47,857.35,West,Isabella Martinez
+ORD-1095,30-04-2024,Standing Desk Pro,Furniture,2,668.47,1336.94,East,Benjamin Anderson
+ORD-1077,2023-06-20,Sony WH-1000XM5 Headphones,Audio,6,366.35,2198.1,South,Matthew Young
+ORD-1198,2024-01-10,Apple MacBook Pro,Technology,6,1309.84,$7859.04,South,
+ORD-1273,2023-09-23,Sony WH-1000XM5 Headphones,Audio,1,389.02,389.02,North,
+ORD-1241,2023-10-23,Anker USB-C Hub,Accessories,3,61.15,183.45,East,Mia Thomas
+ORD-1012,2023-04-08,Dell XPS 15,Technology,3,1070.08,3210.24,South,Benjamin Anderson
+ORD-1321,2023-05-11,Sony WH-1000XM5 Headphones,Audio,4,8500.0,34000.0,North,Mia Thomas
+ORD-1316,2023-08-29,Apple MacBook Pro,Technology,6,1934.23,11605.38,,Charlotte White
+ORD-1281,04/13/2023,Logitech Wireless Mouse,Accessories,1,40.44,$40.44,East,Liam Smith
+ORD-1006,2023-09-18,Standing Desk Pro,Furniture,2,626.72,1253.44,South,Benjamin Anderson
+ORD-1305,2023-01-26,Smart Fitness Watch,Technology,1,$220.6,220.6,West,Charlotte White
+ORD-1240,2023-07-05,Keychron Mechanical Keyboard,Accessories,5,101.29,506.45,West,Charlotte White
+ORD-1200,2023-10-29,Logitech Wireless Mouse,Accessories,1,28.07,28.07,North,Isabella Martinez
+ORD-1235,2023-01-23,Ergonomic Office Chair,Furniture,3,$288.84,866.52,South,Emma Watson
+ORD-1131,05/11/2024,Bose SoundLink Speaker,Audio,5,131.47,657.35,West,Matthew Young
+ORD-1276,2023-06-06,Filing Storage Cabinet,Furniture,3,142.34,427.02,North,Amelia Martin
+ORD-1314,2023-07-01,Heavy Duty Paper Shredder,Office Supplies,1,91.23,91.23,West,Harper Lewis
+ORD-1157,2023-10-28,Gel Pen Pack (12-pack),Office Supplies,1,12.35,12.35,North,Olivia Brown
+ORD-1067,2023-10-21,Standing Desk Pro,Furniture,1,528.72,528.72,East,
+ORD-1221,2024-05-05,Anker USB-C Hub,Accessories,7,66.56,465.92,South,Benjamin Anderson
+ORD-1060,2023-02-01,Standing Desk Pro,Furniture,2,456.93,$913.86,East,Daniel Hall
+ORD-1201,08/31/2023,Dell XPS 15,Technology,1,1102.74,1102.74,East,Daniel Hall
+ORD-1041,2023-12-05,Filing Storage Cabinet,Furniture,2,136.78,273.56,,Isabella Martinez
+ORD-1322,04/23/2023,Filing Storage Cabinet,furniture,1,$137.62,137.62,East,Harper Lewis
+ORD-1308,2023-10-12,Gel Pen Pack (12-pack),Office Supplies,8,17.12,136.96,East,Noah Davis
+ORD-1268,2023-09-26,Samsung 4K Monitor,Technology,3,460.16,1380.48,South,Amelia Martin
+ORD-1225,02/12/2024,Keychron Mechanical Keyboard,Accessories,,107.28,321.84,West,Sophia Wilson
+ORD-1066,01-07-2023,Filing Storage Cabinet,Furniture,7,185.87,1301.09,West,Noah Davis
+ORD-1232,2023-07-09,Keychron Mechanical Keyboard,Accessories,6,113.42,680.52,East,
+ORD-1295,2024-05-09,Desk Organizer Set,Office Supplies,1,26.99,26.99,South,Matthew Young
+ORD-1098,2023-06-13,Gel Pen Pack (12-pack),Office Supplies,8,$11.09,88.72,North,Henry Harris
+ORD-1167,2024-02-18,Dell XPS 15,Technology,1,1413.18,1413.18,South,Olivia Brown
+ORD-1047,11/28/2023,Dell XPS 15,Technology,5,1249.18,6245.9,North,Harper Lewis
+ORD-1310,2023-02-16,Standing Desk Pro,Furniture,1,441.67,441.67,North,Ethan Robinson
+ORD-1113,08/01/2023,Anker USB-C Hub,Accessories,4,67.37,269.48,East,Matthew Young
+ORD-1163,2024-01-14,Sony WH-1000XM5 Headphones,Audio,8,346.38,,East,Abigail Allen
+ORD-1271,2024-01-18,Bose SoundLink Speaker,Audio,6,161.92,971.52,West,James Taylor
+ORD-1122,17-04-2023,Samsung 4K Monitor,Technology,1,386.59,386.59,West,Isabella Martinez
+ORD-1165,05/13/2024,Desk Organizer Set,Office Supplies,3,27.02,81.06,West,Henry Harris
+ORD-1055,2023-04-23,Keychron Mechanical Keyboard,Accessories,3,111.03,333.09,East,Matthew Young
+ORD-1313,03/15/2023,Apple MacBook Pro,Technology,7,1640.68,11484.76,North,Olivia Brown
+ORD-1319,2023-04-18,Keychron Mechanical Keyboard,Accessories,1,122.08,122.08,South,Harper Lewis
+ORD-1138,02/25/2023,Apple MacBook Pro,Technology,6,1760.31,10561.86,North,Henry Harris
+ORD-1044,2023-09-23,Gel Pen Pack (12-pack),Office Supplies,3,18.23,54.69,West,James Taylor
+ORD-1073,2023-11-05,Sony WH-1000XM5 Headphones,Audio,2,375.91,751.82,South,Isabella Martinez
+ORD-1294,2023-04-05,Heavy Duty Paper Shredder,Office Supplies,1,$102.65,102.65,North,Isabella Martinez
+ORD-1256,04/26/2024,Logitech Wireless Mouse,Accessories,4,,$174.92,East,Benjamin Anderson
+ORD-1136,2023-06-16,Desk Organizer Set,Office Supplies,,31.5,220.5,South,Ethan Robinson
+ORD-1344,01-04-2024,Gel Pen Pack (12-pack),Office Supplies,7,10.78,75.46,South,Olivia Brown
+ORD-1026,2023-03-17,Anker USB-C Hub,Accessories,2,40.16,80.32,South,Amelia Martin
+ORD-1018,2023-02-17,Anker USB-C Hub,accessories,,64.87,64.87,North,Mia Thomas
+ORD-1146,01/25/2024,Heavy Duty Paper Shredder,Office Supplies,7,97.31,681.17,North,Henry Harris
+ORD-1130,10/18/2023,Logitech Wireless Mouse,Accessories,6,34.72,208.32,South,Abigail Allen
+ORD-1296,2023-12-23,Samsung 4K Monitor,Technology,2,339.88,679.76,South,Alexander Clark
+ORD-1002,19-02-2024,Keychron Mechanical Keyboard,Accessories,3,117.93,353.79,East,Harper Lewis
+ORD-1251,2023-08-06,Standing Desk Pro,Furniture,6,610.2,3661.2,West,James Taylor
+ORD-1091,01/14/2023,Sony WH-1000XM5 Headphones,Audio,7,349.89,2449.23,North,Benjamin Anderson
+ORD-1267,2023-02-05,Heavy Duty Paper Shredder,Office Supplies,5,92.46,462.3,South,Matthew Young
+ORD-1277,2023-02-12,Logitech Wireless Mouse,Accessories,7,43.62,305.34,East,Sophia Wilson
+ORD-1037,2023-06-06,Keychron Mechanical Keyboard,Accessories,6,98.44,590.64,South,Amelia Martin
+ORD-1038,2024-01-14,Logitech Wireless Mouse,Accessories,5,43.1,,South,Isabella Martinez
+ORD-1024,2023-07-27,Ergonomic Office Chair,Furniture,5,200.05,1000.25,East,James Taylor
+ORD-1315,01/09/2024,Anker USB-C Hub,Accessories,5,$69.5,347.5,South,Olivia Brown
+ORD-1220,2023-08-01,Gel Pen Pack (12-pack),Office Supplies,-4,13.62,81.72,South,Evelyn Walker
+ORD-1048,04/23/2024,Sony WH-1000XM5 Headphones,Audio,1,326.71,326.71,East,Alexander Clark
+ORD-1052,2023-05-31,Apple MacBook Pro,Technology,4,1601.47,6405.88,North,Charlotte White
+ORD-1151,05-03-2023,Filing Storage Cabinet,  Furniture  ,8,131.05,1048.4,North,Harper Lewis
+ORD-1053,2023-12-08,Sony WH-1000XM5 Headphones,Audio,5,380.45,1902.25,East,Harper Lewis
+ORD-1266,2024-01-11,Samsung 4K Monitor,Technology,6,447.16,$2682.96,West,Henry Harris
+ORD-1032,04/13/2023,Apple MacBook Pro,Technology,4,1734.92,6939.68,South,Emma Watson
+ORD-1278,2023-02-06,Samsung 4K Monitor,Technology,2,403.1,806.2,South,Benjamin Anderson
+ORD-1003,2023-02-10,Samsung 4K Monitor,Technology,6,470.99,$2825.94,West,Noah Davis
+ORD-1171,19-11-2023,Smart Fitness Watch,Technology,1,231.54,231.54,South,Evelyn Walker
+ORD-1207,2023-08-10,Keychron Mechanical Keyboard,Accessories,,92.42,554.52,North,Charlotte White
+ORD-1017,12/08/2023,Gel Pen Pack (12-pack),Office Supplies,2,12.68,25.36,North,Evelyn Walker
+ORD-1012,2023-04-08,Dell XPS 15,Technology,3,1070.08,3210.24,South,Benjamin Anderson
+ORD-1065,2023-08-07,Ergonomic Office Chair,Furniture,3,238.22,$714.66,East,Noah Davis
+ORD-1243,04/29/2024,Sony WH-1000XM5 Headphones,Audio,8,317.52,2540.16,North,Matthew Young
+ORD-1121,2023-04-15,Ergonomic Office Chair,Furniture,8,$211.85,1694.8,East,Benjamin Anderson
+ORD-1016,2023-08-23,Standing Desk Pro,furniture,2,568.89,1137.78,North,Olivia Brown
+ORD-1152,2023-07-22,Smart Fitness Watch,Technology,95,$258.89,24594.55,North,James Taylor
+ORD-1132,2023-03-20,Dell XPS 15,Technology,3,1391.94,4175.82,East,
+ORD-1169,12-04-2023,Dell XPS 15,Technology,3,1221.71,3665.13,North,Emma Watson
+ORD-1293,2023-01-07,Apple MacBook Pro,Technology,1,1898.78,,East,Matthew Young
+ORD-1283,01-05-2023,Standing Desk Pro,Furniture,5,,3467.85,East,Henry Harris
+ORD-1051,2024-03-22,Ergonomic Office Chair,Furniture,4,292.61,1170.44,West,Charlotte White
+ORD-1011,05/05/2023,Desk Organizer Set,Office Supplies,4,31.33,125.32,West,Abigail Allen
+ORD-1111,2023-09-21,Bose SoundLink Speaker,Audio,-4,150.03,300.06,West,Amelia Martin
+ORD-1124,11-10-2023,Logitech Wireless Mouse,Accessories,7,39.47,276.29,East,Emma Watson
+ORD-1222,2023-09-21,Smart Fitness Watch,Technology,1,164.38,164.38,East,Isabella Martinez
+ORD-1226,2023-06-06,Ergonomic Office Chair,Furniture,6,311.2,1867.2,North,Daniel Hall
+ORD-1029,14-03-2024,Ergonomic Office Chair,  Furniture  ,8,286.34,2290.72,North,Abigail Allen
+ORD-1199,2024-04-30,Dell XPS 15,Technology,6,1363.91,8183.46,East,Liam Smith
+ORD-1109,03/27/2024,Smart Fitness Watch,Technology,1,290.08,,West,James Taylor
+ORD-1021,2023-01-13,Sony WH-1000XM5 Headphones,Audio,5,339.84,1699.2,South,Benjamin Anderson
+ORD-1223,2023-01-13,Heavy Duty Paper Shredder,office supplies,2,86.58,173.16,South,Olivia Brown
+ORD-1054,2023-07-15,Anker USB-C Hub,ACCESSORIES,5,57.23,$286.15,South,Noah Davis
+ORD-1202,2023-11-08,Dell XPS 15,Technology,75,1131.49,84861.75,South,Ethan Robinson
+ORD-1318,07/09/2023,Desk Organizer Set,Office Supplies,4,20.95,83.8,West,Sophia Wilson
+ORD-1059,10/28/2023,Desk Organizer Set,Office Supplies,7,18.93,132.51,West,Daniel Hall
+ORD-1040,2023-05-08,Bose SoundLink Speaker,Audio,4,168.21,672.84,North,Lucas Jackson
+ORD-1037,2023-06-06,Keychron Mechanical Keyboard,Accessories,6,98.44,590.64,South,Amelia Martin
+ORD-1178,05/12/2023,Keychron Mechanical Keyboard,Accessories,1,116.01,116.01,East,Olivia Brown
+ORD-1033,2024-04-20,Sony WH-1000XM5 Headphones,Audio,7,367.72,$2574.04,North,Noah Davis
+ORD-1246,2024-05-09,Bose SoundLink Speaker,Audio,4,,616.68,West,Mia Thomas
+ORD-1031,2023-04-19,Sony WH-1000XM5 Headphones,Audio,7,333.74,2336.18,East,Amelia Martin
+ORD-1257,2023-04-28,Filing Storage Cabinet,Furniture,3,139.88,$419.64,East,Amelia Martin
+ORD-1008,2024-01-26,Keychron Mechanical Keyboard,Accessories,1,127.66,127.66,East,Sophia Wilson
+ORD-1078,2023-11-27,Desk Organizer Set,Office Supplies,1,25.65,25.65,North,Evelyn Walker
+ORD-1182,2023-11-25,Anker USB-C Hub,Accessories,7,45.54,318.78,North,Mia Thomas
+ORD-1048,04/23/2024,Sony WH-1000XM5 Headphones,Audio,1,326.71,326.71,East,Alexander Clark
+ORD-1254,2023-07-01,Samsung 4K Monitor,Technology,8,416.77,3334.16,East,James Taylor
+ORD-1332,2023-03-10,Keychron Mechanical Keyboard,Accessories,7,$122.36,856.52,North,
+ORD-1134,2023-09-10,Sony WH-1000XM5 Headphones,Audio,5,316.71,$1583.55,East,Lucas Jackson
+ORD-1153,2023-02-06,Ergonomic Office Chair,Furniture,2,213.39,426.78,West,Sophia Wilson
+ORD-1114,2023-03-26,Keychron Mechanical Keyboard,Accessories,2,106.01,212.02,South,Abigail Allen
+ORD-1299,2024-02-13,Standing Desk Pro,Furniture,3,440.72,1322.16,West,Ethan Robinson
+ORD-1036,2024-02-13,Anker USB-C Hub,Accessories,-4,48.38,241.9,East,Isabella Martinez
+ORD-1093,2024-02-09,Keychron Mechanical Keyboard,Accessories,6,98.03,588.18,South,Sophia Wilson
+ORD-1239,2023-08-06,Desk Organizer Set,Office Supplies,4,,,North,Abigail Allen
+ORD-1080,2023-04-30,Bose SoundLink Speaker,Audio,8,145.46,1163.68,West,Lucas Jackson
+ORD-1339,2024-04-12,Keychron Mechanical Keyboard,  Accessories  ,1,80.24,80.24,South,Abigail Allen
+ORD-1123,2023-10-01,Sony WH-1000XM5 Headphones,Audio,6,330.83,$1984.98,West,Amelia Martin
+ORD-1005,2023-07-25,Keychron Mechanical Keyboard,Accessories,6,90.54,543.24,East,Liam Smith
+ORD-1348,2023-10-01,Anker USB-C Hub,Accessories,7,67.6,473.2,South,Daniel Hall
+ORD-1343,2023-06-14,Bose SoundLink Speaker,Audio,7,$143.36,1003.52,South,Isabella Martinez
+ORD-1229,07/03/2023,Anker USB-C Hub,Accessories,-1,54.6,109.2,West,Harper Lewis
+ORD-1020,2023-01-13,Gel Pen Pack (12-pack),Office Supplies,7,18.31,128.17,West,James Taylor
+ORD-1118,2023-02-04,Apple MacBook Pro,Technology,1,$1323.49,1323.49,South,Benjamin Anderson
+ORD-1092,2024-02-19,Logitech Wireless Mouse,Accessories,6,46.13,276.78,North,Harper Lewis
+ORD-1326,03/08/2024,Anker USB-C Hub,Accessories,2,$64.36,128.72,West,Alexander Clark
+ORD-1206,2024-03-17,Standing Desk Pro,Furniture,,651.55,1954.65,North,Matthew Young
+ORD-1194,06/25/2023,Apple MacBook Pro,Technology,8,1455.64,11645.12,South,Abigail Allen
+ORD-1180,2024-04-27,Anker USB-C Hub,Accessories,7,58.21,407.47,West,Emma Watson
+ORD-1306,13-05-2024,Desk Organizer Set,Office Supplies,3,30.51,91.53,North,Daniel Hall
+ORD-1279,23-01-2023,Bose SoundLink Speaker,Audio,6,141.66,$849.96,West,Sophia Wilson
+ORD-1137,2023-12-11,Heavy Duty Paper Shredder,Office Supplies,4,101.66,406.64,West,Olivia Brown
+ORD-1217,2024-04-19,Gel Pen Pack (12-pack),Office Supplies,6,$13.74,82.44,North,Lucas Jackson
+ORD-1317,03-12-2023,Logitech Wireless Mouse,Accessories,75,$45.21,3390.75,North,Abigail Allen
+ORD-1245,07-11-2023,Heavy Duty Paper Shredder,Office Supplies,7,92.73,649.11,South,Mia Thomas
+ORD-1177,2023-11-24,Smart Fitness Watch,Technology,-1,$290.49,871.47,South,Matthew Young
+ORD-1158,19-09-2023,Dell XPS 15,Technology,3,1487.15,4461.45,North,Lucas Jackson
+ORD-1144,2023-09-08,Logitech Wireless Mouse,Accessories,8,29.67,237.36,South,Daniel Hall
+ORD-1230,2024-01-29,Heavy Duty Paper Shredder,Office Supplies,5,115.31,576.55,West,Abigail Allen
+ORD-1204,03/11/2024,Ergonomic Office Chair,Furniture,3,206.87,620.61,North,Noah Davis
+ORD-1270,02/11/2024,Smart Fitness Watch,Technology,5,273.54,1367.7,East,Alexander Clark
+ORD-1340,2023-03-09,Desk Organizer Set,OFFICE SUPPLIES,2,,41.06,South,Alexander Clark
+ORD-1057,02/16/2023,Desk Organizer Set,Office Supplies,2,16.25,32.5,East,Amelia Martin
+ORD-1129,2023-05-19,Smart Fitness Watch,Technology,5,161.14,$805.7,West,Abigail Allen
+ORD-1274,2023-03-21,Apple MacBook Pro,Technology,4,1556.95,$6227.8,East,Harper Lewis
+ORD-1056,2023-09-29,Logitech Wireless Mouse,Accessories,3,31.8,95.4,East,Daniel Hall
+ORD-1027,05/01/2024,Samsung 4K Monitor,Technology,7,405.23,2836.61,East,Matthew Young
+ORD-1042,2023-08-06,Gel Pen Pack (12-pack),Office Supplies,3,12.01,$36.03,South,Abigail Allen
+ORD-1234,2023-09-21,Logitech Wireless Mouse,Accessories,3,30.28,90.84,North,Benjamin Anderson
+ORD-1236,2023-04-21,Filing Storage Cabinet,Furniture,8,189.48,1515.84,North,Lucas Jackson
+ORD-1088,04/18/2024,Anker USB-C Hub,Accessories,2,$47.99,95.98,East,Ethan Robinson
+ORD-1106,2023-05-28,Standing Desk Pro,Furniture,7,602.98,4220.86,East,Daniel Hall
+ORD-1249,2023-07-10,Samsung 4K Monitor,Technology,5,413.69,2068.45,West,Liam Smith
+ORD-1191,2024-04-11,Gel Pen Pack (12-pack),Office Supplies,1,11.55,11.55,West,Emma Watson
+ORD-1145,2023-02-12,Anker USB-C Hub,Accessories,4,63.87,255.48,South,Ethan Robinson
+ORD-1335,2023-04-18,Apple MacBook Pro,TECHNOLOGY,8,$1534.0,12272.0,,Henry Harris
+ORD-1007,2024-01-29,Dell XPS 15,Technology,7,$1055.77,7390.39,East,Daniel Hall
+ORD-1055,2023-04-23,Keychron Mechanical Keyboard,Accessories,3,111.03,333.09,East,Matthew Young
+ORD-1181,2023-03-20,Bose SoundLink Speaker,Audio,2,130.18,260.36,,Daniel Hall
+ORD-1050,2023-02-21,Standing Desk Pro,Furniture,3,537.07,1611.21,West,Noah Davis
+ORD-1347,03/05/2024,Sony WH-1000XM5 Headphones,Audio,3,390.46,1171.38,South,James Taylor
+ORD-1139,2023-08-17,Desk Organizer Set,Office Supplies,3,$24.79,74.37,South,Evelyn Walker
+ORD-1327,01-10-2023,Filing Storage Cabinet,Furniture,8,143.79,1150.32,East,Olivia Brown
+ORD-1162,2024-02-27,Ergonomic Office Chair,Furniture,-1,255.91,255.91,East,Charlotte White
+ORD-1166,2023-05-20,Standing Desk Pro,Furniture,3,683.06,2049.18,West,Charlotte White
+ORD-1086,03/01/2024,Samsung 4K Monitor,Technology,8,408.98,$3271.84,South,Charlotte White
+ORD-1049,2023-10-20,Standing Desk Pro,FURNITURE,7,656.79,4597.53,South,Isabella Martinez
+ORD-1094,2023-08-19,Logitech Wireless Mouse,Accessories,3,37.92,113.76,North,Charlotte White
+ORD-1100,10-03-2023,Heavy Duty Paper Shredder,Office Supplies,7,106.37,744.59,West,Noah Davis
+ORD-1264,2023-05-10,Samsung 4K Monitor,Technology,-1,380.79,2284.74,North,Evelyn Walker
+ORD-1040,2023-05-08,Bose SoundLink Speaker,Audio,4,168.21,672.84,North,Lucas Jackson
+ORD-1272,2024-03-08,Smart Fitness Watch,Technology,-1,264.62,1852.34,East,Charlotte White
+ORD-1150,2024-02-12,Filing Storage Cabinet,Furniture,7,135.24,946.68,North,Henry Harris
+ORD-1331,03-03-2023,Desk Organizer Set,Office Supplies,3,26.93,80.79,East,Amelia Martin
+ORD-1025,02/17/2023,Sony WH-1000XM5 Headphones,Audio,5,375.1,$1875.5,East,Evelyn Walker
+ORD-1338,23-10-2023,Filing Storage Cabinet,Furniture,,179.84,359.68,South,Matthew Young
+ORD-1215,2023-10-26,Dell XPS 15,Technology,7,,9334.99,West,Henry Harris
+ORD-1185,2023-07-18,Smart Fitness Watch,Technology,5,232.8,$1164.0,North,Olivia Brown
+ORD-1341,2024-03-16,Standing Desk Pro,Furniture,6,515.45,3092.7,North,Harper Lewis
+ORD-1028,2024-01-01,Sony WH-1000XM5 Headphones,Audio,6,$327.16,1962.96,North,Harper Lewis
+ORD-1336,2024-02-03,Desk Organizer Set,Office Supplies,4,20.32,81.28,South,Charlotte White
+ORD-1183,2023-10-11,Samsung 4K Monitor,Technology,7,395.8,2770.6,South,Alexander Clark
+ORD-1070,2023-05-29,Gel Pen Pack (12-pack),Office Supplies,7,10.06,70.42,East,Sophia Wilson
+ORD-1337,2023-11-20,Logitech Wireless Mouse,Accessories,6,31.73,$190.38,South,Harper Lewis
+ORD-1164,2024-01-24,Apple MacBook Pro,Technology,5,1894.29,9471.45,North,Charlotte White
+ORD-1075,2023-08-25,Bose SoundLink Speaker,Audio,1,177.7,177.7,West,Evelyn Walker
+ORD-1030,2023-06-22,Anker USB-C Hub,Accessories,3,63.93,191.79,West,Emma Watson
+ORD-1058,2023-11-28,Smart Fitness Watch,Technology,5,273.57,$1367.85,South,
+ORD-1302,2023-04-08,Smart Fitness Watch,Technology,5,222.51,1112.55,South,Evelyn Walker
+ORD-1009,2023-03-07,Heavy Duty Paper Shredder,Office Supplies,3,117.33,351.99,South,Olivia Brown
+ORD-1263,30-01-2024,Gel Pen Pack (12-pack),Office Supplies,1,12.21,$12.21,West,Benjamin Anderson
+ORD-1192,2023-10-27,Samsung 4K Monitor,Technology,6,416.95,2501.7,West,Matthew Young
+ORD-1050,2023-02-21,Standing Desk Pro,Furniture,3,537.07,1611.21,West,Noah Davis
+ORD-1051,2024-03-22,Ergonomic Office Chair,Furniture,4,292.61,1170.44,West,Charlotte White
+ORD-1133,2023-02-15,Ergonomic Office Chair,Furniture,6,$213.95,1283.7,North,Noah Davis
+ORD-1224,01/23/2024,Samsung 4K Monitor,Technology,2,337.73,675.46,North,Emma Watson
+ORD-1290,2023-05-31,Anker USB-C Hub,Accessories,3,41.63,$124.89,West,James Taylor
+ORD-1247,2024-05-04,Keychron Mechanical Keyboard,Accessories,5,$106.77,533.85,West,Charlotte White
+ORD-1298,2023-11-24,Samsung 4K Monitor,Technology,2,377.87,755.74,North,
+ORD-1186,2024-02-07,Dell XPS 15,Technology,6,1267.81,7606.86,North,Noah Davis
+ORD-1035,2023-08-27,Gel Pen Pack (12-pack),Office Supplies,5,16.57,82.85,West,Daniel Hall
+ORD-1324,2023-07-18,Gel Pen Pack (12-pack),Office Supplies,5,$10.53,52.65,West,Liam Smith
+ORD-1142,14-02-2024,Dell XPS 15,Technology,6,1093.47,6560.82,North,Abigail Allen
+ORD-1062,2023-01-09,Standing Desk Pro,Furniture,7,415.71,2909.97,East,Benjamin Anderson
+ORD-1015,27-04-2024,Keychron Mechanical Keyboard,Accessories,1,92.3,92.3,North,Amelia Martin
+ORD-1126,02/04/2023,Ergonomic Office Chair,Furniture,120,201.36,24163.2,South,Sophia Wilson
+ORD-1329,04/19/2023,Apple MacBook Pro,Technology,120,1767.11,212053.2,North,Amelia Martin
+ORD-1092,2024-02-19,Logitech Wireless Mouse,Accessories,6,46.13,276.78,North,Harper Lewis
+ORD-1214,03/07/2024,Desk Organizer Set,Office Supplies,4,32.34,129.36,East,Evelyn Walker
+ORD-1072,2024-03-21,Samsung 4K Monitor,Technology,6,$387.71,2326.26,West,Olivia Brown
+ORD-1064,2023-11-02,Desk Organizer Set,Office Supplies,7,24.61,172.27,West,Charlotte White
+ORD-1242,19-07-2023,Desk Organizer Set,Office Supplies,2,16.09,32.18,South,Liam Smith
+ORD-1154,2024-01-05,Logitech Wireless Mouse,Accessories,7,43.7,305.9,East,Harper Lewis
+ORD-1135,16-02-2024,Standing Desk Pro,Furniture,7,532.06,3724.42,West,Matthew Young
+ORD-1079,2023-12-05,Heavy Duty Paper Shredder,Office Supplies,3,108.31,,North,Evelyn Walker
+ORD-1002,19-02-2024,Keychron Mechanical Keyboard,Accessories,3,117.93,353.79,East,Harper Lewis
+ORD-1014,2023-06-01,Anker USB-C Hub,Accessories,1,$41.74,41.74,South,Sophia Wilson
+ORD-1115,05/11/2023,Sony WH-1000XM5 Headphones,  Audio  ,2,374.57,749.14,West,Emma Watson
+ORD-1238,2024-04-06,Dell XPS 15,Technology,7,1413.75,$9896.25,South,Ethan Robinson
+ORD-1287,05-04-2023,Bose SoundLink Speaker,Audio,3,154.56,463.68,East,Ethan Robinson
+ORD-1253,2024-03-05,Keychron Mechanical Keyboard,Accessories,6,102.48,614.88,West,Mia Thomas
+ORD-1019,2023-08-09,Heavy Duty Paper Shredder,Office Supplies,1,85.4,85.4,South,Henry Harris
+ORD-1300,2023-10-23,Samsung 4K Monitor,technology,6,465.91,$2795.46,South,Emma Watson
+ORD-1155,2023-10-11,Filing Storage Cabinet,Furniture,5,170.47,852.35,South,Olivia Brown
+ORD-1022,2023-11-02,Sony WH-1000XM5 Headphones,Audio,6,372.84,2237.04,North,Liam Smith
+ORD-1252,08/31/2023,Keychron Mechanical Keyboard,Accessories,8,88.82,710.56,South,Sophia Wilson
+ORD-1284,2023-08-02,Dell XPS 15,Technology,5,1076.36,5381.8,South,Amelia Martin
+ORD-1149,2023-08-20,Sony WH-1000XM5 Headphones,Audio,2,379.45,758.9,West,Alexander Clark
+ORD-1196,2024-03-20,Keychron Mechanical Keyboard,accessories,7,106.48,745.36,North,Evelyn Walker
+ORD-1096,07-03-2024,Desk Organizer Set,Office Supplies,1,16.77,,East,Matthew Young
+ORD-1103,16-05-2023,Smart Fitness Watch,Technology,4,267.43,1069.72,West,Emma Watson
+ORD-1071,2023-10-21,Heavy Duty Paper Shredder,Office Supplies,5,$102.0,510.0,West,Charlotte White
+ORD-1291,2024-03-27,Anker USB-C Hub,Accessories,3,47.49,142.47,South,Abigail Allen
+ORD-1237,2023-07-13,Bose SoundLink Speaker,Audio,4,135.42,541.68,South,Olivia Brown
+ORD-1285,02-12-2023,Logitech Wireless Mouse,ACCESSORIES,6,47.92,287.52,South,Alexander Clark
+ORD-1090,2023-01-18,Heavy Duty Paper Shredder,Office Supplies,6,81.79,$490.74,West,Matthew Young
+ORD-1045,2023-08-21,Filing Storage Cabinet,Furniture,2,137.66,275.32,North,Amelia Martin
+ORD-1140,2023-02-19,Anker USB-C Hub,accessories,6,60.89,365.34,West,Henry Harris
+ORD-1328,2023-03-13,Smart Fitness Watch,Technology,4,$153.79,615.16,South,Harper Lewis
+ORD-1210,10/14/2023,Heavy Duty Paper Shredder,Office Supplies,6,99.99,599.94,East,Harper Lewis
+ORD-1004,2023-12-10,Standing Desk Pro,Furniture,2,680.99,1361.98,South,Henry Harris
+ORD-1046,2023-05-17,Gel Pen Pack (12-pack),Office Supplies,8,18.34,,South,Liam Smith
+ORD-1193,2023-03-18,Filing Storage Cabinet,Furniture,1,136.81,136.81,South,Lucas Jackson
+ORD-1303,12/18/2023,Apple MacBook Pro,Technology,6,$1910.3,11461.8,North,Lucas Jackson
+ORD-1034,2023-09-30,Gel Pen Pack (12-pack),  Office Supplies  ,6,13.33,79.98,East,Liam Smith
+ORD-1172,19-02-2024,Smart Fitness Watch,Technology,4,229.4,917.6,North,Mia Thomas
+ORD-1269,2023-12-03,Dell XPS 15,technology,5,1311.98,$6559.9,West,Liam Smith
+ORD-1244,14-02-2023,Keychron Mechanical Keyboard,Accessories,6,118.97,713.82,South,
+ORD-1156,2023-02-27,Keychron Mechanical Keyboard,Accessories,2,111.89,223.78,West,Ethan Robinson
+ORD-1107,2024-04-22,Keychron Mechanical Keyboard,Accessories,2,93.57,187.14,East,Isabella Martinez
+ORD-1074,2023-08-14,Filing Storage Cabinet,Furniture,5,150.94,754.7,South,Charlotte White
+ORD-1045,2023-08-21,Filing Storage Cabinet,Furniture,2,137.66,275.32,North,Amelia Martin
+ORD-1307,2023-04-04,Sony WH-1000XM5 Headphones,Audio,6,$366.51,2199.06,West,Henry Harris
+ORD-1301,2023-05-20,Desk Organizer Set,Office Supplies,4,25.43,101.72,North,Charlotte White
+ORD-1072,2024-03-21,Samsung 4K Monitor,Technology,6,$387.71,2326.26,West,Olivia Brown
+ORD-1028,2024-01-01,Sony WH-1000XM5 Headphones,Audio,6,$327.16,1962.96,North,Harper Lewis
+ORD-1218,02/02/2024,Bose SoundLink Speaker,Audio,8,139.66,1117.28,South,Daniel Hall
+ORD-1084,04-03-2024,Anker USB-C Hub,Accessories,1,57.89,57.89,,Olivia Brown
+ORD-1148,11-03-2023,Heavy Duty Paper Shredder,Office Supplies,1,109.27,109.27,North,Evelyn Walker
+ORD-1227,2023-11-27,Gel Pen Pack (12-pack),Office Supplies,2,12.61,25.22,West,Daniel Hall
+ORD-1213,2023-07-18,Heavy Duty Paper Shredder,Office Supplies,6,100.3,601.8,North,Sophia Wilson
+ORD-1228,2023-12-22,Standing Desk Pro,Furniture,6,569.66,3417.96,East,Matthew Young
